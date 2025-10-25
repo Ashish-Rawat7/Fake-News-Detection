@@ -84,31 +84,6 @@ Integrate deep learning models like LSTM or BERT for better contextual understan
 
 Deploy the model using Flask or FastAPI
 
-# How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Download NLTK resources (only first time)
-
-import nltk
-nltk.download('stopwords')
-nltk.download('wordnet')
-
-
-Run the script
-
-python main.py
-
-
 # Learnings
 
 Through this project, you’ll learn:
